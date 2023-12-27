@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mirandabecodes
 - 👀 I’m interested in ... career transitioning into coding
-- 🌱 I’m currently learning ... HTML/CSS
+- 🌱 I’m currently learning ... Javascript and sweating
 - 💞️ I’m looking to collaborate on ... beginner stuff! 
 - 📫 How to reach me ... 
 
